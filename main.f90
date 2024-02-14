@@ -1,3 +1,3 @@
 program main
-  print*, "Hello from main. Version 1"
+  print*, "Hello from main. Version 2"
 end program main
